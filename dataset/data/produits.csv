@@ -1,0 +1,31 @@
+id,sku,libelle,client_id,categorie,poids_kg,temperature_dirigee
+1,SKU-10001,Plaquette de frein,1,Pieces auto,5.13,0
+2,SKU-10002,Disque de frein,1,Pieces auto,0.25,0
+3,SKU-10003,Filtre a huile,1,Pieces auto,2.24,0
+4,SKU-10004,Filtre a air,1,Pieces auto,1.82,0
+5,SKU-10005,Bougie d'allumage,1,Pieces auto,5.9,0
+6,SKU-10006,Amortisseur avant,1,Pieces auto,5.43,0
+7,SKU-10007,Courroie de distribution,1,Pieces auto,7.14,0
+8,SKU-10008,Batterie 12V,1,Pieces auto,0.74,0
+9,SKU-10009,Retroviseur,1,Pieces auto,3.4,0
+10,SKU-10010,Pare-chocs avant,1,Pieces auto,0.29,0
+11,SKU-20011,Yaourt nature 4x125g,2,Alimentaire,1.79,1
+12,SKU-20012,Lait demi-ecreme 1L,2,Alimentaire,4.07,1
+13,SKU-20013,Filet de poulet 500g,2,Alimentaire,0.26,1
+14,SKU-20014,Epinards surgeles 1kg,2,Alimentaire,1.63,1
+15,SKU-20015,Jus d'orange 1L,2,Alimentaire,5.22,1
+16,SKU-20016,Fromage rape 200g,2,Alimentaire,4.38,1
+17,SKU-20017,Pommes Gala 1kg,2,Alimentaire,1.8,1
+18,SKU-20018,Pizza surgelee,2,Alimentaire,4.73,1
+19,SKU-20019,Beurre doux 250g,2,Alimentaire,6.48,1
+20,SKU-20020,Compote pomme 4x100g,2,Alimentaire,0.1,1
+21,SKU-30021,T-shirt coton uni,3,Textile,6.46,0
+22,SKU-30022,Jean coupe droite,3,Textile,5.6,0
+23,SKU-30023,Veste softshell,3,Textile,2.75,0
+24,SKU-30024,Chaussettes x3,3,Textile,1.29,0
+25,SKU-30025,Pull col rond,3,Textile,7.66,0
+26,SKU-30026,Chemise popeline,3,Textile,2.73,0
+27,SKU-30027,Short de sport,3,Textile,0.79,0
+28,SKU-30028,Doudoune legere,3,Textile,0.82,0
+29,SKU-30029,Casquette coton,3,Textile,6.79,0
+30,SKU-30030,Robe ete,3,Textile,4.85,0

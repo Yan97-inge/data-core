@@ -1,0 +1,17 @@
+[
+ {
+  "id": 1,
+  "nom": "RapidFret",
+  "contact": "contact@rapidfret.example"
+ },
+ {
+  "id": 2,
+  "nom": "TransUnion Logistique",
+  "contact": "ops@transunion-logistique.example"
+ },
+ {
+  "id": 3,
+  "nom": "EcoRoute",
+  "contact": "support@ecoroute.example"
+ }
+]

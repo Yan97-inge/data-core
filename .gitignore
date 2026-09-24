@@ -23,3 +23,6 @@ postgres/data/
 
 # Reports generated locally
 reports/
+
+# Generated datasets / collection outputs
+dataset/output/
